@@ -1,7 +1,7 @@
 # Certificates
 Repository of all the  certificates received. Want to hire me? Reach me at my email.
 
-# Problem Solving 
+# # Problem Solving 
 https://www.hackerrank.com/certificates/b84a1b57506d
 
 # SQL
